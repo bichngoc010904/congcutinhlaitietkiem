@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 # Tiêu đề
-st.title("🏦 ỨNG DỤNG TÍNH LÃI GỬI TIẾT KIỆM")
+st.title("🏦 CÔNG CỤ TÍNH LÃI GỬI TIẾT KIỆM_NGỌC BÍCH")
 st.write("Tính toán tiền lãi dự kiến dựa trên số tiền gửi, kỳ hạn và lãi suất.")
 
 st.divider()
